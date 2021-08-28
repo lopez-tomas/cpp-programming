@@ -2,5 +2,5 @@
 
 Date::Date()
 {
-    //ctor
+    this->relativeDay = 1;
 }
