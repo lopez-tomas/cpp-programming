@@ -1,0 +1,14 @@
+bin/
+obj/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.depend
+*.layout
